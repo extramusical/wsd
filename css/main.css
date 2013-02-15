@@ -6,3 +6,8 @@ li {
 img {
      float: left;
 }
+
+footer {
+        background: grey;
+        clear: both;
+}
