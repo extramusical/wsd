@@ -20,7 +20,9 @@ li {
 }
 
 h1 {
+    padding: 40px;
     clear: both;
+    margin: 0 auto;
 }
  
 #logo {
