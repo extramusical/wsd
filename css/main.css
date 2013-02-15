@@ -12,6 +12,7 @@ ul {
      margin: 0 auto;
      list-style-type: none;
      float: right;
+     text: bold;
 }
 
 li {
