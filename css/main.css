@@ -7,6 +7,11 @@ section {
          align: center;
 }
 
+ul {
+     width: 360px;
+     margin: 0 auto
+}
+
 li {
     padding: 30px
     text-decoration: none;
