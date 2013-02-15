@@ -1,6 +1,10 @@
 li {
     text-decoration: none;
 }
+
+h1 {
+    float: right;
+}
  
 #logo {
      float: left;
