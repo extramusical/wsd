@@ -24,6 +24,10 @@ h1 {
      float: left;
 }
 
+#dwdrumset {
+    float: left;
+}
+
 footer {
         background: grey;
         clear: both;
