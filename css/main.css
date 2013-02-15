@@ -3,6 +3,10 @@ body {
 	margin: 0 auto;
 }
 
+section {
+         align: center;
+}
+
 li {
     padding: 30px
     text-decoration: none;
