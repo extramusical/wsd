@@ -3,6 +3,11 @@ body {
 	margin: 0 auto;
 }
 
+@font-face {
+	'Elsie Swash Caps', cursive;
+
+}
+
 section {
          align: center;
 }
@@ -12,9 +17,7 @@ ul {
      margin: 0 auto;
      list-style-type: none;
      float: right;
-     font: bold;
-     
-}
+     }
 
 li {
 	
