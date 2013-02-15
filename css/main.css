@@ -3,11 +3,6 @@ body {
 	margin: 0 auto;
 }
 
-@font-face {
-	'Elsie Swash Caps', cursive;
-
-}
-
 section {
          align: center;
 }
@@ -26,6 +21,7 @@ li {
 }
 
 h1 {
+    font-family: 'Elsie Swash Caps', cursive;
     padding: 40px 0px 0px 0px;
     clear: both;
     margin: 0 auto;
