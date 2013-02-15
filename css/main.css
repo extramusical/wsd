@@ -3,7 +3,7 @@ li {
 }
 
 h1 {
-    float: left;
+    float: right;
 }
  
 #logo {
@@ -11,7 +11,7 @@ h1 {
 }
 
 #dwlogo {
-     float; left;
+     float; right;
 }
 
 footer {
