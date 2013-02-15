@@ -14,8 +14,7 @@ ul {
 }
 
 li {
-    padding: 30px
-    text-decoration: none;
+    float: left;
 }
 
 h1 {
